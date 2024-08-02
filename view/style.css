@@ -1,0 +1,25 @@
+body{
+    font: normal 40pt arial;
+}
+section{
+    padding-top: 18vh;
+    text-align: center;
+}
+h1#title{
+    color: rgb(30, 41, 51);
+}
+h1#num{
+    color: green;
+}
+input{
+    width: 18vh;
+    height: 4vh;
+    border: solid 2px black;
+    border-radius: 10px;
+    font: normal 15pt arial;
+    letter-spacing: .2rem;
+}
+input:hover{
+    background-color: rgb(216, 209, 209);
+    border: solid 2px rgb(107, 99, 99);
+}
